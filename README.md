@@ -1,2 +1,2 @@
 # class_demo
-class demo repository
+This is demonstration repository to show how to use git for stats
